@@ -143,6 +143,11 @@ A look-behind assertion has the same logic as a look-ahead, but, it will try to 
    /(?<=...)/                        positive
    /(?<!...)/                        negative
 
+## Resources
+
+Mdn Web Docs [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions]
+Beginner's guide to regular expressions b Carl Alexander [https://carlalexander.ca/beginners-guide-regular-expressions/]
+
 ## Author
 
 https://github.com/JozelineSu
